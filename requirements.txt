@@ -1,0 +1,16 @@
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-openai==0.1.13
+langchain-groq==0.1.6
+streamlit==1.36.0
+streamlit-chat==0.1.1
+pandas==1.5.3
+matplotlib==3.9.0
+seaborn==0.13.2
+langchain-experimental==0.0.62
+tabulate==0.9.0
+tiktoken==0.7.0
+jupyterlab==4.2.3
+pygwalker==0.4.9.1
+langchain-google-genai==1.0.7
+python-dotenv==1.0.1

@@ -1,0 +1,101 @@
+Store Name,Date,Product,Unit Price,Sales,Revenue,Stock Quantity,Profit,Store Address,Postal Code
+7-Eleven,2023/1/8,Bakery,623.95,33,20590.35,67,8236.14,"Osaka, Japan",530-0001
+7-Eleven,2023/1/23,Bakery,714.97,40,28598.8,46,11439.52,"Osaka, Japan",530-0001
+7-Eleven,2023/2/2,Bakery,174.14,41,7139.74,79,2855.896,"Osaka, Japan",530-0001
+7-Eleven,2023/3/8,Bakery,816.88,44,35942.72,37,14377.088,"Osaka, Japan",530-0001
+7-Eleven,2023/1/29,Beef Bowl,247.26,9,2225.34,23,890.136,"Osaka, Japan",530-0001
+7-Eleven,2023/3/3,Beef Bowl,663.6,36,23889.6,85,9555.84,"Osaka, Japan",530-0001
+7-Eleven,2023/4/2,Beef Bowl,194.44,4,777.76,42,311.104,"Osaka, Japan",530-0001
+7-Eleven,2023/1/5,Bento Box,370.87,41,15205.67,15,6082.268,"Osaka, Japan",530-0001
+7-Eleven,2023/1/31,Bread,724.31,31,22453.61,93,8981.444,"Osaka, Japan",530-0001
+7-Eleven,2023/1/19,Chicken,119.91,34,4076.94,53,1630.776,"Osaka, Japan",530-0001
+7-Eleven,2023/1/18,Curry Rice,122.13,15,1831.95,51,732.78,"Osaka, Japan",530-0001
+7-Eleven,2023/2/6,Curry Rice,955.78,28,26761.84,75,10704.736,"Osaka, Japan",530-0001
+7-Eleven,2023/2/25,Curry Rice,266.97,12,3203.64,85,1281.456,"Osaka, Japan",530-0001
+7-Eleven,2023/2/26,Curry Rice,881.76,13,11462.88,10,4585.152,"Osaka, Japan",530-0001
+7-Eleven,2023/3/31,Curry Rice,135.66,20,2713.2,68,1085.28,"Osaka, Japan",530-0001
+7-Eleven,2023/2/1,Fried Chicken,298.69,32,9558.08,11,3823.232,"Osaka, Japan",530-0001
+7-Eleven,2023/3/17,Fried Chicken,623.77,3,1871.31,88,748.524,"Osaka, Japan",530-0001
+7-Eleven,2023/4/5,Fried Chicken,228.25,20,4565,21,1826,"Osaka, Japan",530-0001
+7-Eleven,2023/2/18,Green Salad,291.79,41,11963.39,20,4785.356,"Osaka, Japan",530-0001
+7-Eleven,2023/3/21,Green Salad,509.7,29,14781.3,87,5912.52,"Osaka, Japan",530-0001
+7-Eleven,2023/1/21,Lunch Box,539.78,44,23750.32,87,9500.128,"Osaka, Japan",530-0001
+7-Eleven,2023/2/11,Lunch Box,674.67,20,13493.4,85,5397.36,"Osaka, Japan",530-0001
+7-Eleven,2023/4/4,Lunch Box,988,44,43472,87,17388.8,"Osaka, Japan",530-0001
+7-Eleven,2023/1/17,Onigiri,782.44,46,35992.24,96,14396.896,"Osaka, Japan",530-0001
+7-Eleven,2023/2/19,Onigiri,128.02,42,5376.84,19,2150.736,"Osaka, Japan",530-0001
+7-Eleven,2023/3/6,Onigiri,928.76,29,26934.04,73,10773.616,"Osaka, Japan",530-0001
+7-Eleven,2023/1/10,Pasta,658.82,26,17129.32,12,6851.728,"Osaka, Japan",530-0001
+7-Eleven,2023/1/7,Rice Ball,160.62,30,4818.6,51,1927.44,"Osaka, Japan",530-0001
+7-Eleven,2023/3/1,Rice Ball,860.3,19,16345.7,17,6538.28,"Osaka, Japan",530-0001
+7-Eleven,2023/3/28,Rice Ball,725.48,21,15235.08,10,6094.032,"Osaka, Japan",530-0001
+7-Eleven,2023/1/26,Salad,997.41,6,5984.46,50,2393.784,"Osaka, Japan",530-0001
+7-Eleven,2023/2/8,Salad,489.1,47,22987.7,14,9195.08,"Osaka, Japan",530-0001
+7-Eleven,2023/2/17,Salad,306.96,3,920.88,40,368.352,"Osaka, Japan",530-0001
+7-Eleven,2023/4/10,Salad,108.79,36,3916.44,98,1566.576,"Osaka, Japan",530-0001
+7-Eleven,2023/1/16,Sandwich,217.08,26,5644.08,17,2257.632,"Osaka, Japan",530-0001
+7-Eleven,2023/2/9,Sandwich,949.25,7,6644.75,74,2657.9,"Osaka, Japan",530-0001
+7-Eleven,2023/3/13,Sashimi,487.28,22,10720.16,58,4288.064,"Osaka, Japan",530-0001
+7-Eleven,2023/3/18,Sashimi,342.09,28,9578.52,15,3831.408,"Osaka, Japan",530-0001
+7-Eleven,2023/4/6,Sashimi,549,24,13176,29,5270.4,"Osaka, Japan",530-0001
+7-Eleven,2023/2/23,Snacks,525.89,12,6310.68,83,2524.272,"Osaka, Japan",530-0001
+7-Eleven,2023/3/10,Snacks,205.58,6,1233.48,56,493.392,"Osaka, Japan",530-0001
+7-Eleven,2023/4/7,Snacks,656.34,49,32160.66,62,12864.264,"Osaka, Japan",530-0001
+7-Eleven,2023/3/11,Spaghetti,212.67,18,3828.06,85,1531.224,"Osaka, Japan",530-0001
+7-Eleven,2023/3/24,Spaghetti,453.24,7,3172.68,46,1269.072,"Osaka, Japan",530-0001
+7-Eleven,2023/1/6,Sushi,737.35,13,9585.55,48,3834.22,"Osaka, Japan",530-0001
+7-Eleven,2023/3/26,Sushi,640.02,49,31360.98,35,12544.392,"Osaka, Japan",530-0001
+FamilyMart,2023/1/24,Bakery,501.31,11,5514.41,78,2205.764,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/28,Bakery,506.25,6,3037.5,69,1215,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/5,Bakery,345.93,8,2767.44,37,1106.976,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/16,Bakery,157.79,41,6469.39,37,2587.756,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/1,Beef Bowl,192.26,33,6344.58,75,2537.832,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/10,Beef Bowl,477.75,11,5255.25,49,2102.1,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/12,Beef Bowl,457.83,16,7325.28,65,2930.112,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/21,Beef Bowl,431.67,11,4748.37,23,1899.348,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/28,Beef Bowl,793.83,45,35722.35,29,14288.94,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/16,Bento Box,904.69,26,23521.94,56,9408.776,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/2,Bento Box,784.92,46,36106.32,52,14442.528,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/12,Bento Box,717.01,19,13623.19,46,5449.276,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/7,Bread,235.95,20,4719,44,1887.6,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/7,Bread,654.99,32,20959.68,93,8383.872,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/29,Bread,874.11,31,27097.41,44,10838.964,"Tokyo, Japan",100-0001
+FamilyMart,2023/4/8,Bread,732.22,32,23431.04,97,9372.416,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/9,Chicken,411.29,13,5346.77,21,2138.708,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/14,Chicken,971.99,38,36935.62,24,14774.248,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/13,Chips,976.14,2,1952.28,30,780.912,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/14,Chips,985.58,6,5913.48,54,2365.392,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/22,Curry Rice,793.37,49,38875.13,11,15550.052,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/5,Curry Rice,129.27,8,1034.16,66,413.664,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/20,Fried Chicken,391.25,42,16432.5,23,6573,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/30,Fried Chicken,815.33,39,31797.87,98,12719.148,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/22,Fried Chicken,877.92,18,15802.56,89,6321.024,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/24,Fried Chicken,971.37,23,22341.51,19,8936.604,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/4,Fried Chicken,218.12,45,9815.4,10,3926.16,"Tokyo, Japan",100-0001
+FamilyMart,2023/4/3,Fried Chicken,317.84,28,8899.52,60,3559.808,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/13,Green Salad,346.79,4,1387.16,45,554.864,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/9,Green Salad,533.37,18,9600.66,46,3840.264,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/14,Green Salad,280.47,37,10377.39,53,4150.956,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/2,Lunch Box,943.51,2,1887.02,88,754.808,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/12,Onigiri,884.38,39,34490.82,49,13796.328,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/30,Onigiri,801.87,24,19244.88,79,7697.952,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/3,Salad,719.1,33,23730.3,43,9492.12,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/4,Salad,161.05,33,5314.65,45,2125.86,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/15,Sandwich,774.69,39,30212.91,35,12085.164,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/27,Sandwich,483.56,9,4352.04,71,1740.816,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/3,Sandwich,712.45,12,8549.4,26,3419.76,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/15,Sandwich,468.4,22,10304.8,32,4121.92,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/20,Sandwich,686.5,14,9611,76,3844.4,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/27,Sandwich,798.94,25,19973.5,14,7989.4,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/23,Sandwich,165.2,33,5451.6,82,2180.64,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/25,Sandwich,531.94,12,6383.28,29,2553.312,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/27,Sandwich,362.5,30,10875,38,4350,"Tokyo, Japan",100-0001
+FamilyMart,2023/4/1,Sandwich,532.46,37,19701.02,78,7880.408,"Tokyo, Japan",100-0001
+FamilyMart,2023/4/9,Sandwich,603.68,41,24750.88,52,9900.352,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/22,Sashimi,110.46,15,1656.9,11,662.76,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/11,Snacks,141.17,22,3105.74,27,1242.296,"Tokyo, Japan",100-0001
+FamilyMart,2023/2/4,Snacks,689.06,8,5512.48,98,2204.992,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/15,Snacks,542.44,32,17358.08,65,6943.232,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/19,Snacks,817.8,10,8178,70,3271.2,"Tokyo, Japan",100-0001
+FamilyMart,2023/3/20,Snacks,379.33,35,13276.55,29,5310.62,"Tokyo, Japan",100-0001
+FamilyMart,2023/1/25,Spaghetti,346.26,3,1038.78,47,415.512,"Tokyo, Japan",100-0001
